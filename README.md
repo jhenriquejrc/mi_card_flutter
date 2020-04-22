@@ -1,4 +1,5 @@
-![ScreenApp](https://github.com/jhenriquejrc/mi_card_flutter/blob/master/Screenshot_1587588409.png =250x)
+
+<img src="https://github.com/jhenriquejrc/mi_card_flutter/blob/master/Screenshot_1587588409.png" width="300">
 
 # Mi Card
 
